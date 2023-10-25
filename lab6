@@ -1,4 +1,5 @@
 #Derek Tsang
+# roxanne postell
 
 #asks for name
 name = input('Hello. What is your name?')
