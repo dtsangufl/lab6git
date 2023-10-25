@@ -1,0 +1,11 @@
+#Derek Tsang
+
+#asks for name
+name = input('Hello. What is your name?')
+print("It's nice to meet you,", name , end='. How old are you?')
+#asks for age
+age = input()
+print('I see that you are still quite young at only', age ,end='. ')
+#asks for city
+city = input('Where do you live?')
+print("Wow! I've always wanted to go to", city ,end='. Thanks for chatting with me. Bye!')
